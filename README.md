@@ -36,7 +36,7 @@ Follow these steps to get started with the Predictive Pancreas project:
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/Predictive-Pancreas.git
+   git clone https://github.com/rdhan4/Predictive-Pancreas.git
    cd Predictive-Pancreas
    ```
 
