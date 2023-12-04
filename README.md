@@ -12,7 +12,7 @@ Predictive Pancreas is an innovative project that leverages artificial intellige
 
  **Comprehensive Dataset:** The dataset used in this project incorporates diverse medical predictors to ensure a holistic approach to diabetes risk assessment.
 
- **Machine Learning Algorithms:** We employ various machine learning algorithms to develop predictive models, enabling a comparative analysis of their performance.
+ **Machine Learning Algorithms:** I employ various machine learning algorithms to develop predictive models, enabling a comparative analysis of their performance.
 
  **Accuracy as Metric:** Model evaluation is centered around the accuracy_score metric, allowing for a nuanced comparison of different algorithms.
 
@@ -51,6 +51,6 @@ Follow these steps to get started with the Predictive Pancreas project:
 
 ## Contributing
 
-We welcome contributions from the community! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
+I welcome contributions from the community! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
 
