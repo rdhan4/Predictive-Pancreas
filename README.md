@@ -53,10 +53,4 @@ Follow these steps to get started with the Predictive Pancreas project:
 
 We welcome contributions from the community! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this template according to the specific details of your project. Add sections or modify content to provide more context and guidance to users who visit your GitHub repository.
