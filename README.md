@@ -16,7 +16,7 @@ Predictive Pancreas is an innovative project that leverages artificial intellige
 
  **Accuracy as Metric:** Model evaluation is centered around the accuracy_score metric, allowing for a nuanced comparison of different algorithms.
 
- **End-to-End Workflow:** From data gathering to model deployment, the project covers all essential steps in developing a robust and scalable solution.
+ **End-to-End Workflow:** From data gathering to model Evaluation, the project covers all essential steps in developing a robust and scalable solution.
 
 ## Project Structure
 
